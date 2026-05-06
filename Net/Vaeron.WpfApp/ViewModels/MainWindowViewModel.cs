@@ -1,4 +1,4 @@
-using System.Reflection;
+﻿using System.Reflection;
 using System.Windows;
 using Vaeron.WpfApp.ViewModels.Base;
 

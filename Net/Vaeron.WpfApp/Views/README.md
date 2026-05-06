@@ -1,4 +1,4 @@
-# Views
+﻿# Views
 
 本層放 XAML 與必要的 code-behind。
 

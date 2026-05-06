@@ -1,4 +1,4 @@
-# template-wpf
+﻿# template-wpf
 
 WPF 專案模板，內含 Vaeron 開發規範與自動同步模板文件的 GitHub Actions 工作流程。
 
